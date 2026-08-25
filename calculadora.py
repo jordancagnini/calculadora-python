@@ -11,7 +11,7 @@ def divisao(a,b):
     if b == 0:
         return None
 
-    returna a / b
+    return a / b
 
 def potencia(a,b):
     return a ** b
